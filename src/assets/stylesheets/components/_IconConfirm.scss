@@ -1,0 +1,21 @@
+.sw-IconConfirm_Path {
+    &#{ & }-core {
+        fill: #fff;
+    }
+
+    &#{ & }-sokol {
+        fill: #fff;
+    }
+
+    &#{ & }-dai {
+        fill: #fff;
+    }
+
+    &#{ & }-kovan {
+        fill: #fff;
+    }
+
+    [disabled] & {
+        fill: #333 !important;
+    }
+}
