@@ -2,7 +2,7 @@
   "name": "poa-dapps-validators",
   "version": "0.2.0",
   "private": false,
-  "homepage": "https://openpoa.github.io/validators",
+  "homepage": "https://openpoa.com/validators",
   "dependencies": {
     "@babel/core": "7.1.0",
     "@babel/preset-react": "7.0.0",
@@ -81,7 +81,7 @@
     "build-js": "react-scripts build",
     "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/eslint src",
-    "predeploy": "npm run build && mv build docs && cp CNAME docs/CNAME",
+    "predeploy": "rm -rf ./docs && npm run build && mv build docs && cp CNAME docs/CNAME",
     "start": "npm-run-all -p watch-css start-default",
     "start-default": "node scripts/start.js",
     "start-js": "react-scripts start",
