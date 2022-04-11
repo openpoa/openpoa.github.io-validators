@@ -32,11 +32,11 @@
 
   &#{ & }-unconfirmed {
     background-color: #e5e5e5;
-    background-image: url('/images/unconfirmed.svg');
+    background-image: url('#{ $base-images-path }/unconfirmed.svg');
   }
 
   &#{ & }-confirmed {
-    background-image: url('/images/confirmed.svg');
+    background-image: url('#{ $base-images-path }/confirmed.svg');
   }
 
   &#{ & }-confirmed#{ & }-core {
