@@ -6,7 +6,7 @@
   "static/js/1.cc2c51be.chunk.js.map": "/validators/static/js/1.cc2c51be.chunk.js.map",
   "runtime~main.js": "/validators/static/js/runtime~main.f9bf9a20.js",
   "runtime~main.js.map": "/validators/static/js/runtime~main.f9bf9a20.js.map",
-  "static/media/index.css": "/validators/static/media/kovan.14405d87.svg",
+  "static/media/index.css": "/validators/static/media/dai.83a47ff9.svg",
   "static/media/core.svg": "/validators/static/media/core.0b5dc31a.svg",
   "static/media/sokol.svg": "/validators/static/media/sokol.46f8323d.svg",
   "static/media/kovan.svg": "/validators/static/media/kovan.d0632f1b.svg",
@@ -14,6 +14,6 @@
   "static/media/xdai.svg": "/validators/static/media/xdai.3ab0ed5c.svg",
   "static/css/main.a5ff88f1.chunk.css.map": "/validators/static/css/main.a5ff88f1.chunk.css.map",
   "index.html": "/validators/index.html",
-  "precache-manifest.996dfc1cc9d2b9458d479b470e9eb3bd.js": "/validators/precache-manifest.996dfc1cc9d2b9458d479b470e9eb3bd.js",
+  "precache-manifest.046e5d8f260e790752692e5c22dacbbd.js": "/validators/precache-manifest.046e5d8f260e790752692e5c22dacbbd.js",
   "service-worker.js": "/validators/service-worker.js"
 }
