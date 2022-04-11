@@ -2,7 +2,7 @@
   "name": "poa-dapps-validators",
   "version": "0.2.0",
   "private": false,
-  "homepage": "https://openpoa.com/",
+  "homepage": "https://openpoa.com/validators",
   "dependencies": {
     "@babel/core": "7.1.0",
     "@babel/preset-react": "7.0.0",
