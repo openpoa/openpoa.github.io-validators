@@ -23,7 +23,7 @@ import { getNetworkBranch } from './utils/utils'
 import messages from './utils/messages'
 
 const history = createBrowserHistory()
-const baseRootPath = '/poa-dapps-validators'
+const baseRootPath = '/validators'
 const setMetadataPath = `${baseRootPath}/set`
 const pendingChangesPath = `${baseRootPath}/pending-changes`
 

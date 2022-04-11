@@ -9,7 +9,7 @@ constants.ABIsSources = {
   ProofOfPhysicalAddress: 'ProofOfPhysicalAddress.abi.json'
 }
 constants.userDeniedTransactionPattern = 'User denied transaction'
-constants.rootPath = '/poa-dapps-validators'
+constants.rootPath = '/validators'
 constants.branches = {
   DAI: 'dai',
   CORE: 'core',
